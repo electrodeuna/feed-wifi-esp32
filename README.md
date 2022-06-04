@@ -19,8 +19,8 @@ UniversalTelegramBot: https://github.com/witnessmenow/Universal-Arduino-Telegram
 
 ## Errores
 
-ATENCIÓN: la librería Servo pretende ejecutarse sobre arquitectura(s) avr, megaavr, sam, samd, nrf52, stm32f4, mbed, mbed_nano, mbed_portenta, mbed_rp2040 y puede ser incompatible con tu actual tarjeta la cual corre sobre arquitectura(s) esp32.
- #error "This library only supports boards with an AVR, SAM, SAMD, NRF52 or STM32F4 processor."
+> ATENCIÓN: la librería Servo pretende ejecutarse sobre arquitectura(s) avr, megaavr, sam, samd, nrf52, stm32f4, mbed, mbed_nano, mbed_portenta, mbed_rp2040 y puede ser > incompatible con tu actual tarjeta la cual corre sobre arquitectura(s) esp32.
+> #error "This library only supports boards with an AVR, SAM, SAMD, NRF52 or STM32F4 processor."
  
 1. Haga clic aquí para descargar ESP32_Arduino_Servo_Library . Debe tener una carpeta .zip en su carpeta de Descargas
 2. Descomprima la carpeta .zip y debería obtener la carpeta   ESP32 -Arduino-Servo-Library-Master
