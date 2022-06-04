@@ -1,4 +1,4 @@
-# feed-wifi-esp32
+# Alimentador de mascotas con Esp32
 
 Proyecto IoT para alimentar mascotas con el celular a través de la aplicación Telegram, usando el microcontrolador Nodemcu Esp32 que se conecta por WiFi y controla un servomotor.
 
