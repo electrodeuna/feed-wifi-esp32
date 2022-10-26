@@ -9,6 +9,7 @@ Video: https://www.youtube.com/watch?v=szKZNcq5x4Y&t=36s
 - Nodemcu Esp32
 - Servomotor (SG90)
 - Cables
+- Fuente alimentación
 - Recipiente
 
 ## Librerías
