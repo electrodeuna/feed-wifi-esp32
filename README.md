@@ -6,11 +6,12 @@ Video: https://www.youtube.com/watch?v=szKZNcq5x4Y&t=36s
 
 ## Componentes
 
-- Nodemcu Esp32
-- Servomotor (SG90)
+- 1x Nodemcu Esp32
+- 1x Servomotor (SG90)
+- 1x Recipiente
 - Cables
 - Fuente alimentación
-- Recipiente
+
 
 ## Librerías
 
