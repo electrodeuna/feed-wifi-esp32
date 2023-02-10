@@ -19,6 +19,12 @@ Las librerías utilizadas para este proyecto son "ArduinoJson" y "UniversalTeleg
 
 UniversalTelegramBot: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
 
+## Agregar URL de tarjeta de Esp32
+
+En Archivo->Prerencias agregamos en "Gestor de URLs Adicionales de Tarjetas" el siguiente link:
+
+https://dl.espressif.com/dl/package_esp32_index.json
+
 ## Errores
 
 > ATENCIÓN: la librería Servo pretende ejecutarse sobre arquitectura(s) avr, megaavr, sam, samd, nrf52, stm32f4, mbed, mbed_nano, mbed_portenta, mbed_rp2040 y puede ser > incompatible con tu actual tarjeta la cual corre sobre arquitectura(s) esp32.
