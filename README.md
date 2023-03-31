@@ -4,6 +4,8 @@ Proyecto IoT para alimentar mascotas con el celular a través de la aplicación 
 
 Video: https://www.youtube.com/watch?v=szKZNcq5x4Y&t=36s
 
+![20220328_185908_0000](https://user-images.githubusercontent.com/85527788/229244380-3ed1383a-3a3a-4427-bc4c-10af6a9911e3.png)
+
 ## Componentes
 
 - 1x Nodemcu Esp32
